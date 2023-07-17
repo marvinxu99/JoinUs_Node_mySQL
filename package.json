@@ -18,6 +18,6 @@
   "homepage": "https://github.com/marvinxu99/JoinUs_Node_mySQL#readme",
   "dependencies": {
     "faker": "^4.1.0",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   }
 }
